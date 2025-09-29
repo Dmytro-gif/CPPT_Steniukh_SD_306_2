@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI210.Steniukh.Lab3","l":"MotorBoatDriver"}];updateSearchResults();
