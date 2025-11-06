@@ -1,0 +1,13 @@
+Контейнер після операцій:
+GenericContainer(capacity=9, size=8)
+[0] Banka: Горох (vol=400,0ml, price=25,50) [lid=aluminium]
+[1] Tin: Риба (vol=240,0ml, price=40,00) [brand=OceanBrand]
+[2] Banka: Кукурудза (vol=450,0ml, price=20,00) [lid=steel]
+[3] Tin: Помідори (vol=500,0ml, price=35,00) [brand=TomatoCo]
+[4] Tin: Сардини (vol=200,0ml, price=28,00) [brand=SeaKing]
+[5] Banka: Фасоля (vol=425,0ml, price=22,00) [lid=steel]
+[6] Tin: Паштет (vol=150,0ml, price=30,00) [brand=PateMaster]
+[7] Banka: Варення (vol=300,0ml, price=27,50) [lid=aluminium]
+
+Перший мінімальний елемент (видалений): Banka: Компот (vol=350,0ml, price=18,75) [lid=aluminium]
+Поточний мінімальний елемент: Banka: Кукурудза (vol=450,0ml, price=20,00) [lid=steel]

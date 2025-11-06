@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"KI306.Steniukh.Lab4","c":"Equations","l":"calculate(double)"},{"p":"KI306.Steniukh.Lab4","c":"Equations","l":"Equations()","u":"%3Cinit%3E()"}];updateSearchResults();
